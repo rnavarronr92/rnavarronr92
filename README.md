@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ricardo Navarro
 
-I'm a full-stack web developer with over 8 years of experience building reliable, scalable, and high-performance solutions. I specialize in **Laravel**, **Vue.js**, **Kubernetes**, and modern development workflows.
+I'm a full-stack web developer with over 9 years of experience building reliable, scalable, and high-performance solutions. I specialize in **Laravel**, **Vue.js**, **Kubernetes**, and modern development workflows.
 
 ## 🚀 What I Do
 
